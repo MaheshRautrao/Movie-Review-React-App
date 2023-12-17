@@ -1,0 +1,6 @@
+1. different image on each reload in banner
+2. custom hook for api call 
+3. react router
+4. react redux toolkit used for state management
+5. simple and beautiful user interface
+6. 
